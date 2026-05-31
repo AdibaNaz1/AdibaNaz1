@@ -31,7 +31,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
 ---
-![Adiba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdibaNaz1&show_icons=true&theme=radical&count_private=true)
+### 📊 GitHub Profile
+[![Adiba's GitHub Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdibaNaz1&theme=radical)](https://github.com/AdibaNaz1)
+
+<a href="https://github.com/AdibaNaz1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdibaNaz1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdibaNaz1&layout=compact&langs_count=7&theme=radical"/>
+</a>
 ### 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdibaNaz1&layout=compact&theme=radical&langs_count=8)
 
