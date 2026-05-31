@@ -31,7 +31,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
 ---
-### 📊 GitHub Stats
 ![Adiba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdibaNaz1&show_icons=true&theme=radical&count_private=true)
 ### 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdibaNaz1&layout=compact&theme=radical&langs_count=8)
